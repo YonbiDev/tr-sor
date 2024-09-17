@@ -1,0 +1,198 @@
+# depslib dependency file v1.0
+1703595640 source:c:\users\gsi\desktop\test qualité\projetprog\gamemanager.cpp
+	"gamemanager.h"
+	<windows.h>
+	<algorithm>
+	<iostream>
+	<cstdlib>
+	"player.h"
+
+1703544024 c:\users\gsi\desktop\test qualité\projetprog\gamemanager.h
+	"ruins.h"
+	"player.h"
+	"monster.h"
+
+1703502409 c:\users\gsi\desktop\test qualité\projetprog\ruins.h
+	<memory>
+	<string>
+	<vector>
+	<iostream>
+	"character.h"
+	"player.h"
+	"monster.h"
+	<ctime>
+
+1703543474 c:\users\gsi\desktop\test qualité\projetprog\character.h
+	<vector>
+
+1703498301 c:\users\gsi\desktop\test qualité\projetprog\point.h
+
+1703543484 c:\users\gsi\desktop\test qualité\projetprog\player.h
+	<iostream>
+	"character.h"
+	"monster.h"
+	"equipement.h"
+
+1703543489 c:\users\gsi\desktop\test qualité\projetprog\monster.h
+	<memory>
+	<vector>
+	"character.h"
+	"player.h"
+
+1703498074 c:\users\gsi\desktop\test qualité\projetprog\equipement.h
+
+1703591069 source:c:\users\gsi\desktop\test qualité\projetprog\character.cpp
+	"character.h"
+	"goto_xy_windows.h"
+
+1703498074 c:\users\gsi\desktop\test qualité\projetprog\goto_xy_windows.h
+
+1703595121 source:c:\users\gsi\desktop\test qualité\projetprog\monster.cpp
+	"monster.h"
+
+1703505874 source:c:\users\gsi\desktop\test qualité\projetprog\monsterblind.cpp
+	"monsterBlind.h"
+	"monster.h"
+
+1703505868 c:\users\gsi\desktop\test qualité\projetprog\monsterblind.h
+	"monster.h"
+
+1703589243 source:c:\users\gsi\desktop\test qualité\projetprog\ruins.cpp
+	"ruins.h"
+	"character.h"
+	<cstdlib>
+
+1703543517 source:c:\users\gsi\desktop\test qualité\projetprog\player.cpp
+	"player.h"
+	<string>
+	<ostream>
+	"goto_xy_windows.h"
+
+1703594937 source:c:\users\gsi\desktop\test qualité\projetprog\main.cpp
+	<iostream>
+	<vector>
+	"ruins.h"
+	"character.h"
+	"monsterBlind.h"
+	"monsterSmart.h"
+	"player.h"
+	<windows.h>
+	"gamemanager.h"
+
+1703498074 source:c:\users\gsi\desktop\test qualité\projetprog\equipement.cpp
+	"equipement.h"
+
+1703498074 source:c:\users\gsi\desktop\test qualité\projetprog\goto_xy_windows.cpp
+	<windows.h>
+	"goto_xy_windows.h"
+
+1703542673 source:c:\users\gsi\desktop\test qualité\projetprog\monstersmart.cpp
+	"monsterSmart.h"
+	<cmath>
+
+1703505491 c:\users\gsi\desktop\test qualité\projetprog\monstersmart.h
+	"character.h"
+	"monster.h"
+
+1705010779 source:c:\users\gsi\desktop\test qualité - copie\projetprog\character.cpp
+	"character.h"
+	"goto_xy_windows.h"
+	<iostream>
+
+1705010779 c:\users\gsi\desktop\test qualité - copie\projetprog\character.h
+	<vector>
+
+1703686414 c:\users\gsi\desktop\test qualité - copie\projetprog\goto_xy_windows.h
+
+1705010779 source:c:\users\gsi\desktop\test qualité - copie\projetprog\equipement.cpp
+	"equipement.h"
+
+1703686414 c:\users\gsi\desktop\test qualité - copie\projetprog\equipement.h
+
+1705011044 source:c:\users\gsi\desktop\test qualité - copie\projetprog\gamemanager.cpp
+	"gamemanager.h"
+	<windows.h>
+	<algorithm>
+	<iostream>
+	<cstdlib>
+	"player.h"
+
+1705010779 c:\users\gsi\desktop\test qualité - copie\projetprog\gamemanager.h
+	"ruins.h"
+	"player.h"
+	"monster.h"
+
+1705010779 c:\users\gsi\desktop\test qualité - copie\projetprog\ruins.h
+	<memory>
+	<string>
+	<vector>
+	<iostream>
+	"character.h"
+	"player.h"
+	"monster.h"
+	<ctime>
+
+1705010779 c:\users\gsi\desktop\test qualité - copie\projetprog\player.h
+	<iostream>
+	"character.h"
+	"monster.h"
+	"equipement.h"
+
+1703687396 c:\users\gsi\desktop\test qualité - copie\projetprog\monster.h
+	<memory>
+	<vector>
+	"character.h"
+	"player.h"
+
+1703686414 source:c:\users\gsi\desktop\test qualité - copie\projetprog\goto_xy_windows.cpp
+	<windows.h>
+	"goto_xy_windows.h"
+
+1705011169 source:c:\users\gsi\desktop\test qualité - copie\projetprog\main.cpp
+	<iostream>
+	<vector>
+	"ruins.h"
+	"character.h"
+	"monsterBlind.h"
+	"monsterSmart.h"
+	"player.h"
+	<windows.h>
+	"gamemanager.h"
+
+1703687396 c:\users\gsi\desktop\test qualité - copie\projetprog\monsterblind.h
+	"monster.h"
+
+1703687396 c:\users\gsi\desktop\test qualité - copie\projetprog\monstersmart.h
+	"character.h"
+	"monster.h"
+
+1703687396 source:c:\users\gsi\desktop\test qualité - copie\projetprog\monsterblind.cpp
+	"monsterBlind.h"
+	"monster.h"
+
+1705011175 source:c:\users\gsi\desktop\test qualité - copie\projetprog\monstersmart.cpp
+	"monsterSmart.h"
+	<cmath>
+	<climits>
+
+1705010779 source:c:\users\gsi\desktop\test qualité - copie\projetprog\player.cpp
+	"player.h"
+	<string>
+	<ostream>
+	"goto_xy_windows.h"
+
+1705010779 source:c:\users\gsi\desktop\test qualité - copie\projetprog\ruins.cpp
+	"ruins.h"
+	"character.h"
+	<cstdlib>
+	<algorithm>
+
+1705010779 source:c:\users\gsi\desktop\test qualité - copie\projetprog\monster.cpp
+	"monster.h"
+
+1703686365 source:c:\users\gsi\desktop\test qualité - copie\projetprog\defence.cpp
+	"defence.h"
+
+1703686365 c:\users\gsi\desktop\test qualité - copie\projetprog\defence.h
+	<iostream>
+
